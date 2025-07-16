@@ -1,0 +1,1 @@
+// Write a Javascript program to input week number and print week day.

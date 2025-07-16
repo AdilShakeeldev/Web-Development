@@ -1,0 +1,3 @@
+Javascript is mostly used in Web Apps/Pages, Mobile Applications, Machine Languages, Games, Desktop Apps and in Terminal CLI (Command Line Interface).
+To Run a Javascript Program in CLI we use Node. 
+
